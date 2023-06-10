@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class BookWordCounter {
     /**
-     * Continuously asks user for a book and a word
+     * Continuously asks the user for a book and a word
      *
      * @param args
      */
